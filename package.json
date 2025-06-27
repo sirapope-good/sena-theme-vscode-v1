@@ -1,0 +1,45 @@
+{
+  "name": "sena-theme-vscode-v1",
+  "displayName": "Sena Theme V1",
+  "description": "A beautiful pastel color theme with soft, eye-friendly colors perfect for long coding sessions",
+  "version": "1.0.0",
+  "publisher": "sena-dev",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "pastel",
+    "soft",
+    "eye-friendly",
+    "coding",
+    "sena"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sena Theme V1",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sena Theme V1-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sena-dev/sena-theme-vscode-v1"
+  },
+  "bugs": {
+    "url": "https://github.com/sena-dev/sena-theme-vscode-v1/issues"
+  },
+  "homepage": "https://github.com/sena-dev/sena-theme-vscode-v1#readme",
+  "license": "MIT",
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#1e2a31",
+    "theme": "dark"
+  }
+}
